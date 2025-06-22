@@ -1,6 +1,6 @@
 import project1 from "../assets/projects/SITEKEPER.png";
 import project2 from "../assets/projects/plantes.jpg";
-import project5 from "../assets/projects/prj1.png";
+import project3 from '../assets/projects/prj1.png';
 import { link } from "motion/react-client";
 
 
@@ -41,7 +41,7 @@ export const PROJECTS = [
   
   {
     title: "Portfolio Personnel",
-    image: project5,
+    image: project3,
     description:
       "Création d’un site portfolio interactif mettant en valeur mes projets, compétences et informations de contact de manière professionnelle.",
     technologies: ["React.js", "Tailwind", "Framer Motion"],
