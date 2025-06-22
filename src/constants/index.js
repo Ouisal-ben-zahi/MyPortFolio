@@ -1,6 +1,6 @@
 import project1 from "../assets/projects/SITEKEPER.png";
 import project2 from "../assets/projects/plantes.jpg";
-import project3 from '../assets/projects/prj1.png';
+import project3 from '../assets/projects/prj1.jpeg';
 import { link } from "motion/react-client";
 
 
